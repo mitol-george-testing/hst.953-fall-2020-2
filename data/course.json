@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Health Care Management"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "16750597-0668-be69-7cf9-332371fd898f",
+      "d15a96ed-6719-0de9-1386-4fccf8f099e8",
+      "d1f991df-5344-505d-ef5a-138bd54d10ef"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Collaborative Data Science for Healthcare",
+  "course_description": "This course provides an introductory survey of data science tools in healthcare.\u00a0It was created by members of [MIT Critical Data](https://criticaldata.mit.edu/), a global consortium consisting of healthcare practitioners, computer scientists, and engineers from academia, industry, and government, that seeks to place data and research at the front and center of healthcare operations.\n\nThe most daunting global health issues right now are the result of interconnected crises. In this course, we highlight the importance of a multidisciplinary approach to health data science. It is intended for front-line clinicians and public health practitioners, as well as computer scientists, engineers, and social scientists, whose goal is to understand health and disease better using digital data captured in the process of care.\n\nWhat you'll learn:\n\n*   Principles of data science as applied to health\n*   Analysis of electronic health records\n*   Artificial intelligence and machine learning in healthcare\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.953",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
